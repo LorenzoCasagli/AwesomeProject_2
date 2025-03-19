@@ -1,4 +1,4 @@
-https://img.shields.io/badge/any%20text-you%20like-blue
+[Example Static Badge](https://img.shields.io/badge/any%20text-you%20like-blue)
 
 Hello there!
 
