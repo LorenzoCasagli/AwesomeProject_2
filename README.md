@@ -1,3 +1,5 @@
+https://img.shields.io/badge/any%20text-you%20like-blue
+
 Hello there!
 
 This is just an example repository which I was working with during the 'Good Software Practices Workshop' at TU Delft. 
